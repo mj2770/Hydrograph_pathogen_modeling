@@ -21,4 +21,6 @@ Given the past year precipitation-bacteria data frame produced in the last step,
 Next, we plot the data points on a MPN-TSR chart, fitting with Linear and exponential regression model.
 ## **Long-term MPN Prediction**
 In this part, the major goal is using the MPN-TSR fitting curve to predict the long-term MPN conditions in the rivers and plotting the time-series data graph. 
+<img width="392" height="286" alt="image" src="https://github.com/user-attachments/assets/96b75f18-9640-4348-9fc5-10006bd55fc1" />
+
 
