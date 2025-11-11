@@ -19,6 +19,9 @@ First, the earth and land surface will take in some storm water, precipitation w
 ## **Fitted MPN-TSR Relation**
 Given the past year precipitation-bacteria data frame produced in the last step, we now combine it with our sampling WQ results. Then, we convert the normal yeartime column into time since rain for each rain event. The CSO for each qualified rain event will not be detected immediately in rain as the generation of runoff needs time. So taking the TSR instead of yeartime will help us plot the hydrograph of MPN-TSR for the later lag time. Also, it prevents us from taking samples in the showers of rain.
 Next, we plot the data points on a MPN-TSR chart, fitting with Linear and exponential regression model.
+
+<img width="398" height="278" alt="image" src="https://github.com/user-attachments/assets/185fc22f-488b-4241-9c1a-6237bea3bf7b" />
+
 ## **Long-term MPN Prediction**
 In this part, the major goal is using the MPN-TSR fitting curve to predict the long-term MPN conditions in the rivers and plotting the time-series data graph. 
 
