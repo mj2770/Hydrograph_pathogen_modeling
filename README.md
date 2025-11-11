@@ -22,6 +22,9 @@ Next, we plot the data points on a MPN-TSR chart, fitting with Linear and expone
 
 <img width="398" height="278" alt="image" src="https://github.com/user-attachments/assets/185fc22f-488b-4241-9c1a-6237bea3bf7b" />
 
+<img width="392" height="278" alt="image" src="https://github.com/user-attachments/assets/3c72b9b1-49e6-4a0b-9dae-4bdbf61e8e37" />
+
+
 ## **Long-term MPN Prediction**
 In this part, the major goal is using the MPN-TSR fitting curve to predict the long-term MPN conditions in the rivers and plotting the time-series data graph. 
 
